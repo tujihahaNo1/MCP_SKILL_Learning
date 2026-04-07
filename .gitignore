@@ -46,7 +46,7 @@ Thumbs.db
 
 # ADK框架配置
 .adk/
-**/​.adk/
+**/.adk/
 
 # 日志
 *.log
