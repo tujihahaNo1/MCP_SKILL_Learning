@@ -1,0 +1,10 @@
+# ADK和MCP依赖
+google-adk>=1.25.0
+mcp>=0.1.0
+
+# LLM依赖支持
+openai>=1.0.0  # 用于兼容OpenAI格式的LLM API (豆包等)
+
+# 其他依赖
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
